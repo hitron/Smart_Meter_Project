@@ -11,7 +11,7 @@ File: Smart_meter_clustering.ipynb
 
 1.3. Transform
 
-1.4. Fit Model
+1.4. Fit KNN Model
 
 1.5. Test model
 
